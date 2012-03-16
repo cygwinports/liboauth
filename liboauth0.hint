@@ -1,5 +1,5 @@
 category: Net
-requires: liboauth-common libcurl4 libopenssl098
+requires: liboauth-common libcurl4 libopenssl100
 external-source: liboauth
 sdesc: "OAuth C library (runtime)"
 ldesc: "liboauth is a collection of POSIX-c functions implementing the 

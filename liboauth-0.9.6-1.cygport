@@ -7,3 +7,5 @@ PKG_NAMES="liboauth0 liboauth-common liboauth-devel"
 liboauth0_CONTENTS="usr/bin/cygoauth-0.dll"
 liboauth_common_CONTENTS="usr/share/doc/"
 liboauth_devel_CONTENTS="usr/include/ usr/lib/ usr/share/man/man3/"
+
+CYGCONF_ARGS="--disable-static"
